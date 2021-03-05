@@ -3,7 +3,7 @@
 
 <!--Project Title (text or image or both)-->
 # Project Title
-![Project Title]("https://github.com/dev-ujin/readme-template/project-title.png")
+![Project Title](project-title.png)
 
 <!--Project Buttons-->
 [![Readme in Korean][readme-ko-shield]][readme-ko-url] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
