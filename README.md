@@ -123,7 +123,6 @@ This project is licensed under the MIT License. See the [`LICENSE`][license-url]
 
 <!--Url for Buttons-->
 [readme-ko-shield]: https://img.shields.io/badge/-readme%20in%20korean-2E2E2E?style=for-the-badge
-[readme-ko-url]: https://github.com/dev-ujin/readme-template/res-readme/README-KO.md
 [view-demo-shield]: https://img.shields.io/badge/-%F0%9F%98%8E%20view%20demo-F3F781?style=for-the-badge
 [view-demo-url]: https://dev-ujin.github.io
 [report-bug-shield]: https://img.shields.io/badge/-%F0%9F%90%9E%20report%20bug-F5A9A9?style=for-the-badge
@@ -134,7 +133,7 @@ This project is licensed under the MIT License. See the [`LICENSE`][license-url]
 <!--URLS-->
 [license-url]: res-readme/LICENSE.md
 [contribution-url]: res-readme/CONTRIBUTION.md
-
+[readme-ko-url]: res-readme/README-KO.md
 
 
 
